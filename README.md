@@ -3,8 +3,8 @@
 <img width="100%" src="https://www.imagemhost.com.br/images/2021/04/05/ezgif.com-gif-maker805c33c8faeebdc3.gif" alt="ezgif.com-gif-maker805c33c8faeebdc3.gif" border="0" />
 
 <div style="display: flex, justify-content: space-between" ><br>
-  <img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=giovanna-mrosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img  width="40%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giovanna-mrosa&layout=compact&langs_count=8&theme=dracula"/>
+  <img width="50%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=giovanna-mrosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img  width="50%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giovanna-mrosa&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
