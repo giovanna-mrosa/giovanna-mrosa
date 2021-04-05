@@ -3,7 +3,8 @@
 
 ![ezgif.com-gif-maker805c33c8faeebdc3.gif](https://www.imagemhost.com.br/images/2021/04/05/ezgif.com-gif-maker805c33c8faeebdc3.gif)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/apigiovanna-mrosaanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=giovanna-mrosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giovanna-mrosa&layout=compact&langs_count=8&theme=dracula"/>
 
 <div>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -
