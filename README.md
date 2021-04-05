@@ -1,6 +1,6 @@
 ## Hi, I'm Giovanna! :star2:
 
-![ezgif.com-gif-maker805c33c8faeebdc3.gif](https://www.imagemhost.com.br/images/2021/04/05/ezgif.com-gif-maker805c33c8faeebdc3.gif)
+<img width="100%" src="https://www.imagemhost.com.br/images/2021/04/05/ezgif.com-gif-maker805c33c8faeebdc3.gif" alt="ezgif.com-gif-maker805c33c8faeebdc3.gif" border="0" />
 
 <div style="display: flex" ><br>
   <img width="50%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=giovanna-mrosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
