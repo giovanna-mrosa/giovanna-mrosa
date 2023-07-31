@@ -1,7 +1,7 @@
 ## Hi, I'm Giovanna! :star2:
 
 <div align="center" style="display: flex, flex-wrap: wrap">
-<img width="100%" src="https://www.imagemhost.com.br/images/2021/04/05/ezgif.com-gif-maker805c33c8faeebdc3.gif" alt="ezgif.com-gif-maker805c33c8faeebdc3.gif" border="0" />
+<!-- <img width="100%" src="https://www.imagemhost.com.br/images/2021/04/05/ezgif.com-gif-maker805c33c8faeebdc3.gif" alt="ezgif.com-gif-maker805c33c8faeebdc3.gif" border="0" /> -->
 </div>
 
 <div style="display: flex, justify-content: space-between" ><br>
